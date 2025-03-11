@@ -32,14 +32,17 @@
 </p>
 
 ---
+<p>
+This project includes the following features:<br/>
+✅ README for describing your projects.<br/>
+✅ LICENSE for applying MIT license on your projects.<br/>
+✅ .gitignore for excluding .env, builds and node modules.<br/>
+</p>
 
-This project includes the following features:
-✅ README for describing your projects.
-✅ LICENSE for applying MIT license on your projects.
-✅ .gitignore for excluding .env, builds and node modules.
-
-This project leverages the following tools & frameworks:
-📦 github-markdown
+<p>
+This project leverages the following tools & frameworks:<br/>
+📦 github-markdown<br/>
+</p>
 
 ---
 
