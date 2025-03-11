@@ -32,17 +32,14 @@
 </p>
 
 ---
-<p>
-This project includes the following features:<br/>
-✔️ README for describing your projects.<br/>
-✔️ LICENSE for applying MIT license on your projects.<br/>
-✔️ .gitignore for excluding .env, builds and node modules.<br/>
-</p>
 
-<p>
-This project leverages the following tools & frameworks:<br/>
-📦 github-markdown<br/>
-</p>
+features:
+- README for describing your projects.
+- LICENSE for applying MIT license on your projects.
+- .gitignore for excluding .env, builds and node modules.
+
+tools & frameworks:
+- github-markdown
 
 ---
 
@@ -60,8 +57,6 @@ cd readme
 xdg-open README.md
 ```
 
-[You can also test the project online.](https://github.com/v1br/readme)
-
 ---
 
 💻 Contributing to the project:
@@ -76,8 +71,8 @@ git commit -m "meaningful message"
 git push origin new-feature
 # [ create a pull request ]
 ```
-
-[Kindly follow these conventions.](https://www.conventionalcommits.org/en/v1.0.0/)
+> [!IMPORTANT]
+> Please follow conventional commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 ---
 
