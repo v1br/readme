@@ -34,9 +34,9 @@
 ---
 <p>
 This project includes the following features:<br/>
-✅ README for describing your projects.<br/>
-✅ LICENSE for applying MIT license on your projects.<br/>
-✅ .gitignore for excluding .env, builds and node modules.<br/>
+✔️ README for describing your projects.<br/>
+✔️ LICENSE for applying MIT license on your projects.<br/>
+✔️ .gitignore for excluding .env, builds and node modules.<br/>
 </p>
 
 <p>
