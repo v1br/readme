@@ -1,21 +1,30 @@
+<!-- INTRUCTIONS FOR USING TEMPLATE -->
+
+<!-- Find and replace the following. -->
+<!-- .....black with [badges color] -->
+<!-- .....readme with [repository name] -->
+
+<!-- Set the main logo as a gif / image. -->
+<!-- Set the correct tech badges under it. -->
+<!-- Set the correct local run commands. -->
+
+<!-- Remove these instructions. -->
+
+
 <!-- Shields.io badges -->
-![GitHub contributors](https://img.shields.io/github/contributors/v1br/readme?style=flat-square&color=black)
-
-![GitHub issues](https://img.shields.io/github/issues-pr/v1br/readme?style=flat-square&color=black)
-
-![GitHub issues](https://img.shields.io/github/issues/v1br/readme?style=flat-square&color=black)
+&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/v1br/readme?style=flat-square&color=black)&nbsp;&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues-pr/v1br/readme?style=flat-square&color=black)&nbsp;&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/v1br/readme?style=flat-square&color=black)
 
 <!-- MAIN SECTION -->
 <br />
 <p align="center">
 
-  <h3 align="center">ReadMe</h3>
+  <h3 align="center">readme</h3>
   <h5 align="center">٩(ˊᗜˋ )و</h5>
 
   <p align="center">
     A project readme template for personal use.<br />
     <br />
-    <a href="https://github.com/v1br/readme/">Docs</a>
+    <a href="https://github.com/v1br/readme/">View</a>
     |
     <a href="https://github.com/v1br/readme/pulls">Pulls</a>
     |
@@ -25,21 +34,22 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/github-292929?logo=github">
-    <img src="https://img.shields.io/badge/html-292929?logo=html5">
-    <img src="https://img.shields.io/badge/markdown-292929?logo=markdown">
+    <img src="https://img.shields.io/badge/node-292929?logo=nodedotjs">
+    <img src="https://img.shields.io/badge/react-292929?logo=react">
+    <img src="https://img.shields.io/badge/tailwind-292929?logo=tailwindcss">
+    <img src="https://img.shields.io/badge/bun-292929?logo=bun">
   </p>
 </p>
 
 ---
 
-features:
-- README for describing your projects.
-- LICENSE for applying MIT license on your projects.
-- .gitignore for excluding .env, builds and node modules.
+You may add detailed project description here if needed.
 
-tools & frameworks:
-- github-markdown
+Features:
+- List all the project features here.
+
+Tech Stack:
+- List all the technologies used here.
 
 ---
 
@@ -50,11 +60,6 @@ tools & frameworks:
 git clone https://github.com/v1br/readme.git
 cd readme
 start README.md
-
-# ubuntu
-git clone https://github.com/v1br/readme.git
-cd readme
-xdg-open README.md
 ```
 
 ---
@@ -72,9 +77,11 @@ git push origin new-feature
 # [ create a pull request ]
 ```
 > [!IMPORTANT]
-> Please follow conventional commits: https://www.conventionalcommits.org/en/v1.0.0/
+> Please follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ---
 
-<p align="center">🥕🐇</p>
+<p align="center">
+  <a href="https://kopimi.com/" target="_blank" rel="noopener noreferer"><img src="assets/k.svg" width="24px" /></a>&nbsp;&nbsp;&nbsp;<a href="https://v1br.github.io/me/" target="_blank" rel="noopener noreferer"><img src="assets/c.svg" width="24px" /></a>
+</p>
 
